@@ -6,4 +6,8 @@ class Program
     {
         Console.WriteLine("Hello World! This is the Fractions Project.");
     }
+    public class Fraction
+    {
+        private int _top;
+    }
 }
